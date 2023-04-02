@@ -1,0 +1,10 @@
+﻿Console.Clear();
+Double a = new Random().Next(1,100);
+Console.Write("a = ");
+Console.WriteLine(a);
+Double b = new Random().Next(1,100);
+Console.Write("b = ");
+Console.WriteLine(b);
+Double div = a/b;
+Console.Write("div = ");
+Console.WriteLine(div);
